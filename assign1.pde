@@ -16,7 +16,7 @@
 
   int laserY = robotY+32 ;
   int laserWidth = 10 ;
-  int laserWidthMax = floor(random(3,41)) ;
+  int laserWidthMax = floor(random(10,41)) ;
   int laserSpeedX = 2 ;
 
 void setup() {
